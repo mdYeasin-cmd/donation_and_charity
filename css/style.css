@@ -116,7 +116,32 @@ a{
     font-size: 18px;
     line-height: 28px;
 }
-#donateToday form button{
-    border: none;
-}
 /* //Donate Today Section CSS End */
+
+/* Donate Plan Section CSS Start */
+#donatePlan{
+    padding-bottom: 60px;
+}
+#donatePlan .donatePlan_item_wrapper{
+    margin-top: 50px;
+}
+#donatePlan .donatePlan_item{
+    width: 32%;
+    padding: 50px 20px;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+#donatePlan .donatePlan_item h4{
+    margin: 16px 0;
+}
+.food{
+    background: #4F9DA61A;
+}
+.family{
+    background: #FF59591A;
+
+}
+.education{
+    background: #FFF4D6;
+}
+/* //Donate Plan Section CSS End */
