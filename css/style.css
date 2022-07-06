@@ -28,6 +28,15 @@ a{
 .element_center{
     justify-content: center;
 }
+.btn_design{
+    display: inline-block;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 30px;
+}
 .section_info{
     text-align: center;
 }
@@ -47,7 +56,7 @@ a{
 
 /* Banner Section CSS Start */
 #banner{
-    height: 660px;
+    height: 670px;
     background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(../images/banner_bg.jpg);
     background-size: cover;
     color: #fff;
@@ -70,15 +79,6 @@ a{
     margin: 0 auto;
     font-size: 18px;
     line-height: 28px;
-    margin-top: 30px;
-}
-.btn_design{
-    display: inline-block;
-    background-color: #FF5959;
-    padding: 10px 20px;
-    border-radius: 5px;
-    color: #fff;
-    font-weight: 500;
     margin-top: 30px;
 }
 /* //Banner Section CSS End */
