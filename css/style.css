@@ -36,6 +36,10 @@ a{
     color: #fff;
     font-weight: 500;
     margin-top: 30px;
+    transition: all 0.3s linear;
+}
+.btn_design:hover{
+    background-color: black;
 }
 .section_info{
     text-align: center;
@@ -204,6 +208,10 @@ a{
     background-color: #FF5959;
     color: #fff;
     border-radius: 0 5px 5px 0;
+    transition: all 0.3s linear;
+}
+#getUpdates .subscripton_form a:hover{
+    background-color: black;
 }
 /* //Get Updates Section CSS End */
 
